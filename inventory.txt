@@ -1,0 +1,10 @@
+Donut, 1 item,$0.95
+Sandwich, 7 ounces chicken, $3.98
+Tape, sealing,1 roll,50 meters, $1.29
+Eggs, 1 dozen, $3.29
+Pizza, 3 toppings, 14” diameter, $10.99
+Notebook, 3-ring, 200 sheet capacity, $2.49
+Writing pens, black ink,pair, $1.05
+Calculus book, 3rd edition, $175.99
+C Programming book, 2nd edition, $19.99
+
